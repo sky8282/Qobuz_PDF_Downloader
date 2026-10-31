@@ -1,0 +1,4 @@
+# 图片/PDF 是否开始服务器中转:
+proxy_images_pdfs: false
+# Qobuz token:
+token: "你的token"
